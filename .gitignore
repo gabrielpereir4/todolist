@@ -1,0 +1,11 @@
+*.db
+
+*.class
+*.log
+*.tmp
+nbactions.xml
+
+target/
+
+/build/
+/dist/
